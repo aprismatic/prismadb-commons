@@ -3,13 +3,12 @@
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
-    <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/bazzilic/PrismaDB-Commons</licenseUrl>
+    <projectUrl>https://github.com/bazzilic/PrismaDB-Commons</projectUrl>
     <tags>commons misc</tags>
   </metadata>
 </package>
