@@ -58,8 +58,8 @@ namespace PrismaDB.Commons
             var count = 0;
             while (current > 0)
             {
-                current = current / _alpha.Length;
                 var rem = current % _alpha.Length;
+                current = current / _alpha.Length;
                 digits[slotCount - ++count] = _alpha[rem];
             }
 
