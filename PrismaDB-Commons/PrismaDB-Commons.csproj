@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
-    <PackageVersion>0.1</PackageVersion>
+    <Version>0.1</Version>
     <Description>Commons for the PrismaDB project</Description>
     <Company>Nanyang Technological Unviersity</Company>
     <Product>PrismaDB-Commons</Product>
