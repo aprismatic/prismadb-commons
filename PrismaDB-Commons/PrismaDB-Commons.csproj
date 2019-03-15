@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
-    <Version>0.1</Version>
+    <Version>1.0.0.0</Version>
     <Description>Commons for the PrismaDB project</Description>
     <Company>Nanyang Technological Unviersity</Company>
     <Product>PrismaDB-Commons</Product>
     <Authors>Vasily Sidorov (bazzilic)</Authors>
+    <RootNamespace>PrismaDB.Commons</RootNamespace>
   </PropertyGroup>
 </Project>
