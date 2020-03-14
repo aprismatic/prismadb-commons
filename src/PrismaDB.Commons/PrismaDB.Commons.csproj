@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Description>Commons for the Prisma/DB project.</Description>
+  </PropertyGroup>
+</Project>
